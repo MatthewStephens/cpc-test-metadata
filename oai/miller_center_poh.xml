@@ -37,6 +37,7 @@
                <dc:date>April 17-18, 2001</dc:date>
                <dc:title>Franklin, Barbara Hackman; Clark, William, Jr.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/barbara-hackman-franklin</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -56,6 +57,7 @@
                <dc:date>November 5, 2010</dc:date>
                <dc:title>McBride, Timothy J.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/timothy-mcbride</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -76,6 +78,7 @@ Johns Hopkins University: Don Oberdorfer</dc:contributor>
                <dc:date>August 28, 2001</dc:date>
                <dc:title>Carlucci, Frank</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/frank-carlucci</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -96,6 +99,7 @@ Virginia Tech University: Karen Hult</dc:contributor>
                <dc:date>November 8-9, 2001</dc:date>
                <dc:title>Bowen, Otis</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/otis-bowen</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -115,6 +119,7 @@ Virginia Tech University: Karen Hult</dc:contributor>
                <dc:date>May 25, 2004</dc:date>
                <dc:title>Ryan, Frederick J., Jr.</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/frederick-ryan</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -134,6 +139,7 @@ Virginia Tech University: Karen Hult</dc:contributor>
                <dc:date>January 14, 2002</dc:date>
                <dc:title>Bakshian, Aram, Jr.</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/aram-bakshian</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -154,6 +160,7 @@ Stanford University: Allison Asher</dc:contributor>
                <dc:date>December 11-12, 2001</dc:date>
                <dc:title>Anderson, Martin</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/martin-anderson</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -173,6 +180,7 @@ Stanford University: Allison Asher</dc:contributor>
                <dc:date>December 17, 2002</dc:date>
                <dc:title>Anderson, Annelise</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/annelise-anderson</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -194,6 +202,7 @@ Assisting: Kelly Erickson</dc:contributor>
                <dc:date>September 30, 2003</dc:date>
                <dc:title>Adelman, Kenneth</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/kenneth-adelman</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -213,6 +222,7 @@ Assisting: Kelly Erickson</dc:contributor>
                <dc:date>August 24, 2004</dc:date>
                <dc:title>Baker, Howard H., Jr.</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/howard-baker</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -232,6 +242,7 @@ Assisting: Kelly Erickson</dc:contributor>
                <dc:date>May 28, 2002</dc:date>
                <dc:title>Allen, Richard</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/richard-allen</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -252,6 +263,7 @@ Virginia Polytechnic University: Karen M. Hult</dc:contributor>
                <dc:date>April 1, 2004</dc:date>
                <dc:title>Culvahouse, A.B.</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/ab-culvahouse</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -273,6 +285,7 @@ Vanderbilt University: Edwin Hargrove</dc:contributor>
                <dc:date>September 12, 2002</dc:date>
                <dc:title>Deaver, Michael</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/michael-deaver</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -292,6 +305,7 @@ Vanderbilt University: Edwin Hargrove</dc:contributor>
                <dc:date>December 12, 2003</dc:date>
                <dc:title>Drake, Joanne</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/joanne-drake</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -311,6 +325,7 @@ Vanderbilt University: Edwin Hargrove</dc:contributor>
                <dc:date>October 24-25, 2002</dc:date>
                <dc:title>Friedersdorf, Max</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/max-friedersdorf</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -330,6 +345,7 @@ Vanderbilt University: Edwin Hargrove</dc:contributor>
                <dc:date>January 10, 2003</dc:date>
                <dc:title>Hannaford, Peter</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/peter-hannaford</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -349,6 +365,7 @@ Vanderbilt University: Edwin Hargrove</dc:contributor>
                <dc:date>August 13, 2002</dc:date>
                <dc:title>Harper, Edwin</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/edwin-harper</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -368,6 +385,7 @@ Vanderbilt University: Edwin Hargrove</dc:contributor>
                <dc:date>March 7, 2003</dc:date>
                <dc:title>Kuhn, James</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/james-kuhn</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -388,6 +406,7 @@ Vanderbilt University: Erwin Hargrove</dc:contributor>
                <dc:date>October 9, 2001</dc:date>
                <dc:title>Laxalt, Paul</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/paul-laxalt</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -408,6 +427,7 @@ Virginia Tech University: Gary Wamsley</dc:contributor>
                <dc:date>November 4, 2001</dc:date>
                <dc:title>Miller, James</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/james-miller</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -427,6 +447,7 @@ Virginia Tech University: Gary Wamsley</dc:contributor>
                <dc:date>March 6, 2003</dc:date>
                <dc:title>Nofziger, Lyn</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/lyn-nofziger</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -446,6 +467,7 @@ Virginia Tech University: Gary Wamsley</dc:contributor>
                <dc:date>April 26, 2003</dc:date>
                <dc:title>Osborne, Kathleen</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/kathleen-osborne</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -465,6 +487,7 @@ Virginia Tech University: Gary Wamsley</dc:contributor>
                <dc:date>November 15-16, 2001</dc:date>
                <dc:title>Spencer, Stuart</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/stuart-spencer</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -484,6 +507,7 @@ Virginia Tech University: Gary Wamsley</dc:contributor>
                <dc:date>December 12, 2003</dc:date>
                <dc:title>Tuttle, Robert; Molloy, Maureen</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/robert-tuttle</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -504,6 +528,7 @@ College of William and Mary: Christine Nemacheck</dc:contributor>
                <dc:date>October 28-29, 2003</dc:date>
                <dc:title>Wallison, Peter</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/peter-wallison</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -523,6 +548,7 @@ College of William and Mary: Christine Nemacheck</dc:contributor>
                <dc:date>August 21, 2002</dc:date>
                <dc:title>Webster, William H.</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/william-webster</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -542,6 +568,7 @@ College of William and Mary: Christine Nemacheck</dc:contributor>
                <dc:date>November 19, 2002</dc:date>
                <dc:title>Weinberger, Caspar</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/caspar-weinberger</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -561,6 +588,7 @@ College of William and Mary: Christine Nemacheck</dc:contributor>
                <dc:date>April 24-25, 2003</dc:date>
                <dc:title>Wick, Charles Z.</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/charles-wick</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -581,6 +609,7 @@ Virginia Polytechnic Institute and State University: Karen M. Hult; Charles E. W
                <dc:date>November 3, 2003</dc:date>
                <dc:title>James, Pendleton</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/pendleton-james</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -600,6 +629,7 @@ Virginia Polytechnic Institute and State University: Karen M. Hult; Charles E. W
                <dc:date>December 18, 2002</dc:date>
                <dc:title>Shultz, George</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/george-shultz</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -619,6 +649,7 @@ Virginia Polytechnic Institute and State University: Karen M. Hult; Charles E. W
                <dc:date>February 27, 2007</dc:date>
                <dc:title>Sofaer, Abraham D.</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/abraham-sofaer</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -638,6 +669,7 @@ Virginia Polytechnic Institute and State University: Karen M. Hult; Charles E. W
                <dc:date>May 17, 2006</dc:date>
                <dc:title>Rowny, Edward</dc:title>
                <dc:source>http://millercenter.org/president/reagan/oralhistory/edward-rowny</dc:source>
+               <dc:relation>Reagan, Ronald</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -658,6 +690,7 @@ Texas A&amp;M University: George C. Edwards III</dc:contributor>
                <dc:date>September 21–22, 2000</dc:date>
                <dc:title>Bates, David Q.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/david-bates</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -677,6 +710,7 @@ Texas A&amp;M University: George C. Edwards III</dc:contributor>
                <dc:date>March 23, 1988</dc:date>
                <dc:title>Bell, Griffin</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/griffin-bell</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -696,6 +730,7 @@ Texas A&amp;M University: George C. Edwards III</dc:contributor>
                <dc:date>November 21, 1986</dc:date>
                <dc:title>Bergland, Robert</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/robert-bergland</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -719,6 +754,7 @@ Mt. Holyoke College: David B. Truman, President Emeritus</dc:contributor>
                <dc:date>February 18, 1982</dc:date>
                <dc:title>Brzezinski, Zbigniew; Albright, Madeleine; Denend, Les; Odom, Bill</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/zbigniew-brzezinski</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -738,6 +774,7 @@ Mt. Holyoke College: David B. Truman, President Emeritus</dc:contributor>
                <dc:date>March 6, 1982</dc:date>
                <dc:title>Carp, Bertram; Rubenstein, David M.; Rogoff, Alice</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/bertram-carp</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -761,6 +798,7 @@ Vanderbilt University: Erwin C. Hargrove</dc:contributor>
                <dc:date>November 29, 1982</dc:date>
                <dc:title>Carter, Jimmy</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/jimmy-carter</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -781,6 +819,7 @@ Vanderbilt University: Erwin C. Hargrove</dc:contributor>
                <dc:date>October 23, 1982</dc:date>
                <dc:title>Cutler, Lloyd</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/lloyd-cutler</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -801,6 +840,7 @@ Vanderbilt University: Erwin C. Hargrove</dc:contributor>
                <dc:date>January 29-30, 1982</dc:date>
                <dc:title>Eizenstat, Stuart</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/stuart-eizenstat</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -823,6 +863,7 @@ Lyndon Baines Johnson School of Public Affairs, University of Texas: Emmette Red
                <dc:date>November 6, 1981</dc:date>
                <dc:title>Jordan, Hamilton; Butler, Landon; Donilon, Thomas</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/hamilton-jordan</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -842,6 +883,7 @@ Lyndon Baines Johnson School of Public Affairs, University of Texas: Emmette Red
                <dc:date>December 10-11, 1981</dc:date>
                <dc:title>Kahn, Alfred E.; Lewis, Ronald B.; Rapp, Dennis A.</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/alfred-e-kahn</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -862,6 +904,7 @@ Visiting Academic Participants: Erwin Hargrove; David Truman</dc:contributor>
                <dc:date>January 5, 1983</dc:date>
                <dc:title>Kirbo, Charles</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/charles-kirbo</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -881,6 +924,7 @@ Visiting Academic Participants: Erwin Hargrove; David Truman</dc:contributor>
                <dc:date>October 2, 1986</dc:date>
                <dc:title>Klutznick, Philip</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/philip-klutznick</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -902,6 +946,7 @@ Columbia University: David Truman, Emeritus</dc:contributor>
                <dc:date>May 12, 1982</dc:date>
                <dc:title>Lance, Bert; Petkas, Peter</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/bert-lance</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -921,6 +966,7 @@ Columbia University: David Truman, Emeritus</dc:contributor>
                <dc:date>May 4, 1988</dc:date>
                <dc:title>Marshall, Ray</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/ray-marshall</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -942,6 +988,7 @@ University of Pittsburgh: Bert Rockman</dc:contributor>
                <dc:date>March 13-14, 1981</dc:date>
                <dc:title>McDonald, Alonzo; Rowny, Michael J.</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/alonzo-mcdonald</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -962,6 +1009,7 @@ Visiting Academic participant: Donald Raider</dc:contributor>
                <dc:date>October 28-29, 1981</dc:date>
                <dc:title>McIntyre, James; Harris, Hubert; Ooms, Van Doorn</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/james-mcintyre</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -982,6 +1030,7 @@ George Washington University: Steven Wayne</dc:contributor>
                <dc:date>January 15-16, 1982</dc:date>
                <dc:title>Moe, Richard; Berman, Michael</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/richard-moe-and-michael-berman</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1003,6 +1052,7 @@ American Political Science Association: Thomas Mann</dc:contributor>
                <dc:date>September 18-19, 1981</dc:date>
                <dc:title>Moore, Frank; Thompson, Robert N.; Tate, Dan; Cable, William H.</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/frank-moore</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1026,6 +1076,7 @@ Mt. Holyoke College: David B. Truman, President Emeritus</dc:contributor>
                <dc:date>December 17-18, 1981</dc:date>
                <dc:title>Powell, Jody; Bario, Patricia; Friendly, Al; Granum, Rex; Jenkins, Ray; Leibach, Dale; Townsend, Claudia</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/jody-powell</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1047,6 +1098,7 @@ George Washington University: Stephen Wayne</dc:contributor>
                <dc:date>April 8, 1983</dc:date>
                <dc:title>Rafshoon, Gerald</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/gerald-m-rafshoon</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1067,6 +1119,7 @@ Tulane University: Robert Strong</dc:contributor>
                <dc:date>July 19-20, 1984</dc:date>
                <dc:title>Schlesinger, James</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/james-schlesinger</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1088,6 +1141,7 @@ University of Pittsburgh: Bert Rockman</dc:contributor>
                <dc:date>January 8-9, 1982</dc:date>
                <dc:title>Schultze, Charles</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/charles-schultze</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1110,6 +1164,7 @@ Johns Hopkins University: Francis Rourke</dc:contributor>
                <dc:date>April 17-18, 1981</dc:date>
                <dc:title>Watson, Jack; Crawford, Berry; Hansen, Jane; Kirschenbaum, Bruce</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/jack-h-watson-jr</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1131,6 +1186,7 @@ George Washington University: Stephen Wayne</dc:contributor>
                <dc:date>February 12-13, 1981</dc:date>
                <dc:title>Wexler, Anne; Chanin, Michael;  Neustadt, Richard E., Jr.; Ryor, John</dc:title>
                <dc:source>http://millercenter.org/president/carter/oralhistory/anne-wexler</dc:source>
+               <dc:relation>Carter, Jimmy, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1151,6 +1207,7 @@ Special Guest: Peter Roussel</dc:contributor>
                <dc:date>January 29, 2000</dc:date>
                <dc:title>Baker, James A.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/james-baker-2000</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1172,6 +1229,7 @@ Also present: John Williams</dc:contributor>
                <dc:date>March 17, 2011</dc:date>
                <dc:title>Baker, James A.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/james-baker-2011</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1192,6 +1250,7 @@ New Mexico State University: Nancy V. Baker</dc:contributor>
                <dc:date>April 5, 2001</dc:date>
                <dc:title>Barr, William P.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/william-barr</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1212,6 +1271,7 @@ University of California, Santa Barbara: Stephen Weatherford</dc:contributor>
                <dc:date>July 30-31, 2001</dc:date>
                <dc:title>Boskin, Michael</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/michael-boskin</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1231,6 +1291,7 @@ University of California, Santa Barbara: Stephen Weatherford</dc:contributor>
                <dc:date>April 12, 2000</dc:date>
                <dc:title>Catto, Henry</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/henry-catto</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1251,6 +1312,7 @@ University of Oklahoma: Wilbur Scott</dc:contributor>
                <dc:date>May 3–4, 2001</dc:date>
                <dc:title>Derwinski, Edward J.; Derwinski, Bonnie</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/edward-derwinski</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1270,6 +1332,7 @@ University of Oklahoma: Wilbur Scott</dc:contributor>
                <dc:date>May 12, 2004</dc:date>
                <dc:title>Fuller, Craig</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/craig-fuller</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1293,6 +1356,7 @@ Attending: James Sterling Young</dc:contributor>
                <dc:date>November 12–13, 1999</dc:date>
                <dc:title>Scowcroft, Brent</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/brent-scowcroft</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1314,6 +1378,7 @@ Bush Presidential Library Foundation: John Karaagac; James H. McCall</dc:contrib
                <dc:date>June 8–9, 2000</dc:date>
                <dc:title>Sununu, John H.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/john-sununu-1</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1334,6 +1399,7 @@ Bush Presidential Library Foundation: James H. McCall</dc:contributor>
                <dc:date>November 9, 2000</dc:date>
                <dc:title>Sununu, John H.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/john-sununu-2</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1353,6 +1419,7 @@ Bush Presidential Library Foundation: James H. McCall</dc:contributor>
                <dc:date>July 28, 2003</dc:date>
                <dc:title>Popadiuk, Roman</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/roman-popadiuk</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1373,6 +1440,7 @@ Bush Presidential Library Foundation: James H. McCall</dc:contributor>
                <dc:date>February 22-23, 2001</dc:date>
                <dc:title>Brady, Phillip D.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/phillip-d-brady</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1393,6 +1461,7 @@ Virginia Tech: Charles Walcott</dc:contributor>
                <dc:date>January 28, 2010</dc:date>
                <dc:title>Demarest, David F., Jr.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/david-demarest</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1414,6 +1483,7 @@ Bush Presidential Library Foundation: James H. McCall</dc:contributor>
                <dc:date>July 23–24, 2000</dc:date>
                <dc:title>Gates, Robert M.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/robert-gates</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1434,6 +1504,7 @@ Washington and Lee: Robert Strong</dc:contributor>
                <dc:date>May 27, 2004</dc:date>
                <dc:title>Haass, Richard</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/richard-haass</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1454,6 +1525,7 @@ American Enterprise Institute: John Fortier</dc:contributor>
                <dc:date>January 6, 2004</dc:date>
                <dc:title>Hills, Carla</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/carla-hills</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1474,6 +1546,7 @@ Sweet Briar College: Spencer Bakich</dc:contributor>
                <dc:date>November 15, 2010</dc:date>
                <dc:title>Jeremiah, David</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/david-jeremiah</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1494,6 +1567,7 @@ University of Pennsylvania: Kathryn Dunn Tenpas</dc:contributor>
                <dc:date>November 20, 2009</dc:date>
                <dc:title>Kilberg, Bobbie Greene; Vogt, Jeffrey; Jeavons, Kathy</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/bobbie-greene-kilberg</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1515,6 +1589,7 @@ The Bush Presidential Library Foundation: James McCall</dc:contributor>
                <dc:date>September 20, 2001</dc:date>
                <dc:title>McClure, Frederick</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/frederick-mcclure</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1534,6 +1609,7 @@ The Bush Presidential Library Foundation: James McCall</dc:contributor>
                <dc:date>December 14, 2010</dc:date>
                <dc:title>Pickering, Thomas</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/thomas-pickering</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1554,6 +1630,7 @@ Bush Presidential Library Foundation: James H. McCall; John Karaagac</dc:contrib
                <dc:date>February 6, 2001</dc:date>
                <dc:title>Pinkerton, James P.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/james-pinkerton</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1574,6 +1651,7 @@ University of Wisconsin-Madison: Charles O. Jones</dc:contributor>
                <dc:date>March 12, 2002</dc:date>
                <dc:title>Quayle, J. Danforth</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/danforth-quayle</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1594,6 +1672,7 @@ Bush Presidential Library Foundation: James McCall</dc:contributor>
                <dc:date>March 8–9, 2001</dc:date>
                <dc:title>Rogich, Sigmund</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/sigmund-rogich</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1614,6 +1693,7 @@ The Bush Presidential Library Foundation: James McCall</dc:contributor>
                <dc:date>August 2, 2001</dc:date>
                <dc:title>Ross, Dennis B.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/dennis-ross</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1635,6 +1715,7 @@ Also Present: Nancy Watson</dc:contributor>
                <dc:date>October 23-24, 2001</dc:date>
                <dc:title>Thornburgh, Richard</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/richard-thornburgh</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1656,6 +1737,7 @@ George Bush Presidential Library: James H. McCall; John Karaagac</dc:contributor
                <dc:date>July 27-28, 2000</dc:date>
                <dc:title>Untermeyer, Chase</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/chase-untermeyer</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1676,6 +1758,7 @@ Texas A&amp;M University: James E. Anderson; George Edwards</dc:contributor>
                <dc:date>January 19, 2001</dc:date>
                <dc:title>Yeutter, Clayton</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/clayton-yeutter</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
@@ -1697,6 +1780,7 @@ George Bush Presidential Library Foundation: James H. McCall</dc:contributor>
                <dc:date>March 16-17, 2000</dc:date>
                <dc:title>Cheney, Richard B.</dc:title>
                <dc:source>http://millercenter.org/president/bush/oralhistory/richard-cheney</dc:source>
+               <dc:relation>Bush, George, 1924-</dc:relation>
             </oai_dc:dc>
          </oai:metadata>
       </oai:record>
