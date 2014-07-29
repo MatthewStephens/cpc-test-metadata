@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+   <Identify>
+      <oai:repositoryName/>
+      <oai:baseURL/>
+      <oai:protocolVersion>2.0</oai:protocolVersion>
+      <oai:adminEmail/>
+      <oai:earliestDatestamp/>
+      <oai:deletedRecord>no</oai:deletedRecord>
+      <oai:granularity>YYYY-MM-DD</oai:granularity>
+   </Identify>
+   <ListMetadataFormats>
+      <oai:metadataFormat>
+         <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+         <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+         <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+      </oai:metadataFormat>
+   </ListMetadataFormats>
+   <ListRecords metadataPrefix="oai_dc">
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>The Republic Must Awaken</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1917-04-04</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>On September 11, 1919, Senator Harding spoke against the recently signed (June 28, 1919) Treaty of Versailles with its provision for establishing the League of Nations. He wanted the Covenant--which President Wilson considered "the heart of the world"--to be modified to free it of portions that could endanger American independence. The Senate rejected the treaty in November 1919, and again in March 1920.
+                  Of interest is the senator's use of "Sirs" in addressing the upper chamber of Congress, showing a lack of women. Some states allowed women to vote in 1919, and women had been elected to the House of Representatives, but the 19th Amendment providing woman's suffrage did not become law until 1920.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/the-republic-must-awaken</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-4</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>Safeguarding America</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1919-09-11</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>On September 11, 1919, Senator Harding spoke against the recently signed (June 28, 1919) Treaty of Versailles with its provision for establishing the League of Nations. He wanted the Covenant--which President Wilson considered "the heart of the world"--to be modified to free it of portions that could endanger American independence. The Senate rejected the treaty in November 1919, and again in March 1920.
+                  Of interest is the senator's use of "Sirs" in addressing the upper chamber of Congress, showing a lack of women. Some states allowed women to vote in 1919, and women had been elected to the House of Representatives, but the 19th Amendment providing woman's suffrage did not become law until 1920.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/safeguarding-america</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-5</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>Americanism</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1920-01-20</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>The debate over whether the Senate should agree to the Treaty of Versailles with its provision for entry into the League of Nations continued through the fall of 1919 and early months of 1920. On January 10, 2910, Senator Harding spoke to the meeting of the Ohio Society of New York at the Waldorf Hotel in New York City. He cautioned that America should hesitate before surrendering its hard won nationality to the dream of the internationalists--the League of Nations--and to "think of America first." The Senate rejected the treaty by seven votes in March 1920.
+                  This transcript is derived from an audio recording made by Harding after the event, and is an excerpt of his public speech.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/americanism</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-6</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>Readjustment</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1920-05-14</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>The basis for this recording was an address entitled “Back to Normal” Senator Harding delivered to the Home Market Club of Boston on May 14, 1920. He reminded citizens that all human ills are not curable by legislation (a gentle chiding of the Democrats), and stated that “if we can prove a representative popular government under which the citizenship seeks what it may do for the government and country, rather than what the country may do for individuals, we shall do more to make democracy safe for the world than all armed conflict ever recorded.” The listener can catch the extraordinary ability of the senator with words and the quickness and imagination with which he could speak. The speech is also notable for Harding’s phrase “not heroics, but healing, not nostrums, but normalcy.” Critics of the senator would claim that he coined the word “normalcy,” which actually goes back to Elizabethan times.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/readjustment</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-7</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>Enduring Popular Government</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1920-07-22</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>Although he was officially nominated at the Republican National Convention on June 12, Senator Harding was formally notified of his nomination at his home in Marion, Ohio on July 22, 1920. In his acceptance speech he reaffirms his belief in the Republican Party as the best vehicle for restoring tranquility and stability. Harding pledged to restore “balance” to the relationship between Congress and the presidency, noting that the nation cannot and should not be governed by one man. His allusion to the failure of the Versailles Treaty in Congress reinforced this message. Party government, he believed, is essential to the health of the republic.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/enduring-popular-government</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-8</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>An Association of Nations</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1920-07-22</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>Senator Harding argued that a “covenant of conscience” rather than a written compact—which would surrender freedom of action and give a military alliance the right to proclaim America’s duty to the world as in Article 10 of the Covenant of the League of Nations—would be in the best interests of the U.S. The Republican candidate was proposing a separate American peace with the German government, subsequently accomplished by the Treaty of Berlin of 1921. He also hinted of his desire to bring about a reduction of armament and to decrease the possibility of a renewed arms race and the resultant threat to world peace and burden on financial resources, an accomplishment of the Conference on the Limitation of Armament, 1921-22.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/an-association-of-nations</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-9</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>High Wages for High Production</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1920-07-22</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>In this speech, Senator Harding noted that profiteering is a crime of commission, underproduction a crime of omission and called for labor, management and capital to reach an understanding for the benefit of the nation; and then emphasized the supremacy of the human element. After every American war save World War II there has been a period of boom, then bust—often described by the party in power as recession, depression by its rival. After World War I almost everyone-- people and government-- desired freedom from the restrictions of wartime. The Wilson Administration lagged and soon labor and management were at odds with dispute after dispute and group animosity that the senator from Ohio deplored.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/high-wages-for-high-production</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-10</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>Liberty Under the Law</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1920-07-22</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>As in today’s world, violence and terrorism were prominent in post World War I America and Europe. The collapse of the Tsarist Empire in March* and subsequent communist victory in the November Revolution* of 1917 was of concern. But it was the Bolshevists’ closure of the democratic Constituent Assembly, the signing of the peace treaty with Germany, the massacre of the Imperial family, attacks on churches, and Red Terror that shocked the western world. The sense of the American people was that democracy was the future of government everywhere; and certainly not the beliefs of the small but vocal group of communists and socialists in the United States. Senator Harding was making that point when he stated that men “must always remember that the rights of freedom impose the obligations which maintain it.”
+                  He also speaks of his approval of collective bargaining in labor/management relations but emphasizes the right of every American to seek employment without being forced to accept the conditions of the union shop.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/liberty-under-the-law</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-11</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>The American Soldier</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1920-07-22</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>Harding praised the American men and women who served in World War I. He also notes that services, sacrifices and injuries should be recognized and deficiencies restored. He also expressed appreciation for their help in preserving the orderly process for making our government reflect the hearts and minds of its citizens—“never warlike in peace and never pacifist in war.”
+                  This transcript contains the published text of the speech, not the actual words spoken. There may be some differences between the transcript and the audio/video content.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/the-american-soldier</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-12</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>The Republican Party</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1920-08-25</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>This recording includes excerpts from two different speeches. The first speech, The Republican Party, was given on August 25, 1920. In it, Senator Harding praised the Republicans in Congress for supporting President Wilson in the war effort and affirmed his belief that "politics should stop at the water's edge." In the second speech, A Tribute to Our Disabled Soldiers, given on August 19, 1920, he praised disabled soldiers, including two in the audience from Wyandot County, Ohio, and reminded us of the adage "all politics is local."</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/the-republican-party</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-13</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>America</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1920-08-28</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>In this quintessential campaign speech, Harding lamented the nation’s lost opportunity for world moral leadership after the World War I, and states his intent to regain it. He also declares that the nation should stay the course and not join the internationalists in their desire to establish membership in the League of Nations.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/america</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-14</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>Nationalism and Americanism</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1921--</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>In this speech given by President-elect Harding early in 1921, he underscored President George Washington’s admonition in his 1796 “Farewell Address” to America that we should avoid, when possible, alliances with the Old World. He also noted the importance of U.S. citizens becoming fully integrated into the “melting pot” of American culture. He cautioned to avoid “hyphenated citizenship,” whereby immigrants’ loyalties were diluted by being divided between America and their country of origin. It was a popular way of speaking about the millions of immigrants who had poured into the United States beginning in the early 1880’s. Until that time most of the growth in the nation’s population had come through the American ”multiplication table,” as people described it—the huge size of American families. The new immigration was centering on Eastern Europe, unlike the older immigrants who came from Western Europe. The resumption of new immigration was much on the minds of political leaders as the United States emerged from World War I.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/nationalism-and-americanism</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-15</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>Speech Upon Arrival of World War One Dead for Burial</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1921-05-23</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>President Harding speaks at Hoboken, New Jersey at a ceremony honoring 5,212 soldiers, sailors, marines, and nurses who were killed defending our country in the World War. He expressed hope for “a nation so righteous as never to make a war of conquest and a nation so powerful in righteousness that none will dare invoke her wrath.”
+                  He praises the members of the armed services for their service and assures our mindfulness, our gratitude, and noted that our reverence for them should be in the preservation of the republic for which they died.
+                  He also declared, “I would not wish a nation for which men are not willing to fight, and if need be die, but I do wish for a nation where it is not necessary to ask that sacrifice.”</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/speech-upon-arrival-of-world-war-one-dead-for-burial</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-16</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+      <oai:record xmlns:mods="http://www.loc.gov/mods/v3"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">
+         <oai:header>
+            <oai:identifier/>
+            <oai:datestamp/>
+         </oai:header>
+         <oai:metadata>
+            <oai_dc:dc>
+               <dc:title>Opening Speech of the Conference on Limitation of Armament</dc:title>
+               <dc:creator>Warren G. (Warren Gamaleil) Harding 1865-1923</dc:creator>
+               <dcterms:DCMIType>sound</dcterms:DCMIType>
+               <dc:type>speech</dc:type>
+               <dc:date>1921-11-12</dc:date>
+               <dc:format>sound recording</dc:format>
+               <dcterms:medium>audio/mpeg</dcterms:medium>
+               <dcterms:MediaTypeOrExtent>audio/mpeg</dcterms:MediaTypeOrExtent>
+               <dc:description>On November 12,1921, President Harding convened in Washington the most significant arms limitation conference of the inter-war era. Represented were the major political and military powers including Belgium, China, Great Britain, Italy, France, the Netherlands, Portugal, and Japan.
+                  Mindful of Wilson’s ill-fated experience and inability to gain consent for the Treaty of Versailles and the League of Nations by the Senate, President Harding elected to welcome and challenge the invited diplomats, and then delegate the negotiations to Secretary of State Charles Evans Hughes. He also ensured that the U.S. delegation contained important Congressional Republicans including Senator Henry Cabot Lodge. After the formalities of the negotiations were completed, leaving nothing to chance, Harding spoke in person to the Senate on February 10, 1922 and submitted the treaties for consent. He noted that he was respectful of the Senate’s part in contracting foreign relations, then added “I have come to know the viewpoint and inescapable responsibility of the executive” and then asked for expeditious agreement.
+                  The treaties resulted in the only successful limitation and reduction of armament the world had known to that time.</dc:description>
+               <dc:subject>National characteristics, American</dc:subject>
+               <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+               <dc:subject>United States -- Social conditions -- 1918-1932</dc:subject>
+               <dc:subject>United States -- Politics and government -- 1921-1923</dc:subject>
+               <dc:source>http://millercenter.org/president/harding/speeches/opening-speech-of-the-conference-on-limitation-of-armament</dc:source>
+               <dc:rights/>
+               <dc:id>ps-29-17</dc:id>
+               <dc:publisher>Miller Center of Public Affairs</dc:publisher>
+               <dc:relation>Harding, Warren G. 1856-1923</dc:relation>
+            </oai_dc:dc>
+         </oai:metadata>
+      </oai:record>
+   </ListRecords>
+</Repository>
