@@ -34,9 +34,9 @@
           <dc:id>mhs_adams_0001</dc:id>
           <dc:title> John Adams, [portrait] </dc:title>
           <dc:creator> Benjamin Blyth</dc:creator>
-          <dc:subject> Adams, John, 1735-1826 --Portraits </dc:subject>
-          <dc:subject> Men --Portraits.</dc:subject>
-          <dc:subject> Companion portraits --Adams </dc:subject>
+          <dc:subject> Adams, John, 1735-1826 -- Portraits </dc:subject>
+          <dc:subject> Men -- Portraits.</dc:subject>
+          <dc:subject> Companion portraits -- Adams </dc:subject>
           <dc:subject> Portraits </dc:subject>
           <dc:description> 1 painting : pastel on paper ; 57 x 44.5 cm. in frame 68 x 55.2 x 4.2 cm.  Head and shoulders view, turned slightly right. Full gray wig, narrow turned-down collar on shirt, white stock, dark gray waistcoat and coat, both with large buttons.</dc:description>
           <dc:publisher>Massachusetts Historical Society</dc:publisher>
@@ -92,7 +92,7 @@
           <dc:id>mhs_adams_0004</dc:id>
           <dc:title>Diplomatic medal of the States-General of the United Provinces of Holland given to John Adams </dc:title>
           <dc:creator> unidentified creator  </dc:creator>
-          <dc:subject>United States --Foreign relations --1783-1815--Medals.  </dc:subject>
+          <dc:subject>United States -- Foreign relations -- 1783-1815 -- Medals.  </dc:subject>
           <dc:description>Gold medal presented to John Adams by the States of Holland on his taking leave as minister 6 March 1788.</dc:description>
           <dc:publisher>Massachusetts Historical Society</dc:publisher>
           <dc:contributor> </dc:contributor>
@@ -118,11 +118,11 @@
           <dc:id>mhs_adams_0143</dc:id>
           <dc:title> Diaries of John Adams</dc:title>
           <dc:creator> John Adams  </dc:creator>
-          <dc:subject>Massachusetts--History--Revolution, 1775-1783--Personal narratives.  </dc:subject>
-          <dc:subject>United States--History--Revolution, 1775-1783--Causes </dc:subject>
-          <dc:subject>United States--Politics and government--1775-1783. </dc:subject>
-          <dc:subject>United States--Politics and government--1783-1809. </dc:subject>
-          <dc:subject>Family history--1750-1799. </dc:subject>
+          <dc:subject>Massachusetts -- History -- Revolution, 1775-1783 -- Personal narratives.  </dc:subject>
+          <dc:subject>United States -- History -- Revolution, 1775-1783 -- Causes </dc:subject>
+          <dc:subject>United States -- Politics and government -- 1775-1783. </dc:subject>
+          <dc:subject>United States -- Politics and government -- 1783-1809. </dc:subject>
+          <dc:subject>Family history -- 1750-1799. </dc:subject>
           <dc:description>During much of his life, John Adams (1735-1826), kept a series of small manuscript volumes in which he described both daily activities and notable events in which he participated. Much of John Adams's life was spent in service to his country. He was a delegate to the Continental Congress, an officially appointed diplomat (who served as a commissioner in France, Great Britain, and the Netherlands, and as minister to the Court of St. James's), vice president and president of the United States.
                         The 51 manuscript volumes compiled by John Adams date from 1753 to 1804 (with gaps) and consist of personal diary entries, financial accounts, copies of letters, drafts of essays, and notes on books and legal cases. The earliest diaries include John Adams's descriptions of student life at Harvard College, his experiences as a teacher in Worcester, Massachusetts, and accounts as a lawyer and a member of the circuit court system. Beginning in 1774, most of the manuscript volumes describe the events Adams witnessed as a Congressional delegate and diplomat in Europe through the summer of 1786. The last diary (diary 46), is actually a series of several loose sequences of pages, and this diary contains sporadic entries from August 1787 through 1804. John Adams wrote a few entries in this diary during his vice presidency (including descriptions of Congressional debates in 1789 and entries written during the summer of 1804 about his daily activities at his farm and home in Quincy, Massachusetts), but the latest diary does not contain any entries related to Adams's presidency.</dc:description>
           <dc:publisher>Massachusetts Historical Society</dc:publisher>
@@ -150,7 +150,7 @@
           <dc:title> Letter from John Adams to Abigail Adams, 3 July 1776, "Your Favour of June 17..."  </dc:title>
           <dc:creator> John Adams </dc:creator>
           <dc:subject>United States History Revolution, 1775-1783 </dc:subject>
-          <dc:subject>United States --Politics and government --1775-1783. </dc:subject>
+          <dc:subject>United States -- Politics and government -- 1775-1783. </dc:subject>
           <dc:subject>Letters </dc:subject>
           <dc:subject> United States. Declaration of Independence.</dc:subject>
           <dc:description>Letter from John Adams to Abigail Adams, 3 July 1776, "Your Favour of June 17...". 2 pages. Original manuscript from the Adams Family Papers, Massachusetts Historical Society.</dc:description>
@@ -196,7 +196,7 @@
           <dc:title>  Letter from John Adams to Abigail Adams, 3 July 1776, "Had a Declaration..." </dc:title>
           <dc:creator> John Adams  </dc:creator>
           <dc:subject>United States History Revolution, 1775-1783 </dc:subject>
-          <dc:subject>United States --Politics and government --1775-1783. </dc:subject>
+          <dc:subject>United States -- Politics and government -- 1775-1783. </dc:subject>
           <dc:subject>Letters </dc:subject>
           <dc:subject> United States. Declaration of Independence.</dc:subject>
           <dc:description> Letter from John Adams to Abigail Adams, 3 July 1776, "Had a Declaration..." . 3 pages. Original manuscript from the Adams Family Papers, Massachusetts Historical Society.</dc:description>
@@ -304,8 +304,8 @@
           <dc:id>mhs_adams_0043</dc:id>
           <dc:title>Letter from John Adams to Jeremy Belknap, 21 March 1795 </dc:title>
           <dc:creator>John Adams  </dc:creator>
-          <dc:subject>Slavery --Massachusetts.</dc:subject>
-          <dc:subject>Antislavery movements --United States. </dc:subject>
+          <dc:subject>Slavery -- Massachusetts.</dc:subject>
+          <dc:subject>Antislavery movements -- United States. </dc:subject>
           <dc:description>John Adams responds to St. George Tucker's queries, circulated by Jeremy Belknap, about slavery and abolition in Massachusetts.  Adams claims to have very little knowledge or recollection of the specific events that led to abolition in Massachusetts, but does suggest that it was the "scoffs and insults" of "common" (i.e. labouring) white people that "filled the Negroes with discontent, made them lazy, idle, proud, vicious, and wholly useless," thus rendering abolition a "Measure of Economy" rather than a moral statement.  John Adams (1735-1826) was serving as Vice President of the United States in 1795, when he sent this letter to Belknap.</dc:description>
           <dc:description>Quincy March 21, 1795
             Dear Sir
@@ -396,10 +396,10 @@
           <dc:title> John Quincy Adams diary 29, 1 August 1813 - 31 May 1816   </dc:title>
           <dc:creator> John Quincy Adams  </dc:creator>
           <dc:subject> Diaries </dc:subject>
-          <dc:subject> Diplomats --England. </dc:subject>
-          <dc:subject> Diplomats --Russia --Saint Petersburg. </dc:subject>
-          <dc:subject>Russia --Foreign relations --United States. </dc:subject>
-          <dc:subject>United States --Foreign relations --Russia.</dc:subject>
+          <dc:subject> Diplomats -- England. </dc:subject>
+          <dc:subject> Diplomats -- Russia -- Saint Petersburg. </dc:subject>
+          <dc:subject>Russia -- Foreign relations -- United States. </dc:subject>
+          <dc:subject>United States -- Foreign relations -- Russia.</dc:subject>
           <dc:description>John Quincy Adams diary 29, 1 August 1813 - 31 May 1816. 456 pages total (2 unnumbered pages + 454 numbered pages). Page dimensions: 22.9 cm. x 17.9 cm. (9 in. x 7 in.). Original manuscript from the Adams Family Papers, Massachusetts Historical Society.</dc:description>
           <dc:description>Diary volume 29 contains long entries for dates ranging from 1 August 1813 to 31 May 1816. John Quincy Adams kept this diary volume when he was forty-six to forty-eight years old. During this time he serves as minister plenipotentiary to Russia, signs the Treaty of Ghent with Great Britain and serves as envoy extraordinary and minister plenipotentiary to Great Britain.</dc:description>
           <dc:publisher>Massachusetts Historical Society</dc:publisher>
@@ -426,8 +426,8 @@
           <dc:id>mhs_adams_0201</dc:id>
           <dc:title>Williamsburg: Governor's Palace (plan), [1768]; or 1779-17, by Thomas Jefferson. N422; K95  </dc:title>
           <dc:creator> Thomas Jefferson </dc:creator>
-          <dc:subject> Architecture --Designs and plans. </dc:subject>
-          <dc:subject> Architecture, Colonial --Virginia --Williamsburg. </dc:subject>
+          <dc:subject> Architecture -- Designs and plans. </dc:subject>
+          <dc:subject> Architecture, Colonial -- Virginia -- Williamsburg. </dc:subject>
           <dc:subject>Williamsburg, (Va). </dc:subject>
           <dc:description>Measured plan of Governor's Palace, made by Thomas Jefferson to study changes.</dc:description>
           <dc:description>Williamsburg: Governor's Palace (plan), 1 page, [1768]; or 1779-17. N422; K95. Dimensions: 24.1 cm x 19 cm (9-1/2" x 7-1/2"). Original manuscript from the Coolidge Collection of Thomas Jefferson Manuscripts, Massachusetts Historical Society.</dc:description>
@@ -455,8 +455,8 @@
           <dc:id>mhs_adams_0302</dc:id>
           <dc:title>  Williamsburg: Governor's Palace (study plan), 1779-1781, by Thomas Jefferson. N423; K96  </dc:title>
           <dc:creator> Thomas Jefferson </dc:creator>
-          <dc:subject> Architecture --Designs and plans. </dc:subject>
-          <dc:subject> Architecture, Colonial --Virginia --Williamsburg. </dc:subject>
+          <dc:subject> Architecture -- Designs and plans. </dc:subject>
+          <dc:subject> Architecture, Colonial -- Virginia -- Williamsburg. </dc:subject>
           <dc:subject>Williamsburg, (Va). </dc:subject>
           <dc:subject> </dc:subject>
           <dc:description>Study of plan for remodeling Governor's Palace.</dc:description>
@@ -484,8 +484,8 @@
           <dc:id>mhs_adams_0540</dc:id> 
           <dc:title>  Williamsburg: Governor's Palace (study plan), 1779-1781, by Thomas Jefferson. N424; K97  </dc:title>
           <dc:creator> Thomas Jefferson </dc:creator>
-          <dc:subject> Architecture --Designs and plans. </dc:subject>
-          <dc:subject> Architecture, Colonial --Virginia --Williamsburg. </dc:subject>
+          <dc:subject> Architecture -- Designs and plans. </dc:subject>
+          <dc:subject> Architecture, Colonial -- Virginia -- Williamsburg. </dc:subject>
           <dc:subject>Williamsburg, (Va). </dc:subject>
           <dc:subject> </dc:subject>
           <dc:description>Study of plan for remodeling Governor's Palace.</dc:description>
@@ -514,8 +514,8 @@
           <dc:id>mhs_adams_0219</dc:id>
           <dc:title> Williamsburg: Governor's Palace (study plan), 1779-1781, by Thomas Jefferson. N425; K98  </dc:title>
           <dc:creator> Thomas Jefferson  </dc:creator>
-          <dc:subject> Architecture --Designs and plans. </dc:subject>
-          <dc:subject> Architecture, Colonial --Virginia --Williamsburg. </dc:subject>
+          <dc:subject> Architecture -- Designs and plans. </dc:subject>
+          <dc:subject> Architecture, Colonial -- Virginia -- Williamsburg. </dc:subject>
           <dc:subject>Williamsburg, (Va). </dc:subject>
           <dc:subject> </dc:subject>
           <dc:description>Williamsburg: Governor's Palace (study plan), 1 page, 1779-1781. N425; K98. Dimensions: 24.3 cm x 19.1 cm (9-9/16" x 7-1/2"). Original manuscript from the Coolidge Collection of Thomas Jefferson Manuscripts, Massachusetts Historical Society.</dc:description>
@@ -544,10 +544,10 @@
           <dc:id>mhs_adams_0119</dc:id>
           <dc:title>Notes on the State of Virginia [manuscript], [1781-1785]  </dc:title>
           <dc:creator> Thomas Jefferson  </dc:creator>
-          <dc:subject>Indians of North America --Virginia  </dc:subject>
-          <dc:subject>Indians of North America --History </dc:subject>
-          <dc:subject>Virginia --Description and travel </dc:subject>
-          <dc:subject>Virginia --History </dc:subject>
+          <dc:subject>Indians of North America -- Virginia  </dc:subject>
+          <dc:subject>Indians of North America -- History </dc:subject>
+          <dc:subject>Virginia -- Description and travel </dc:subject>
+          <dc:subject>Virginia -- History </dc:subject>
           <dc:description>The Massachusetts Historical Society owns a remarkable document in Thomas Jefferson's own handwriting, the text of his only full-length book, Notes on the State of Virginia. When Jefferson was in Paris in 1785 representing the United States as a diplomat, he paid to have 200 copies of Notes printed for private distribution. Prior to publication, Jefferson reworked an earlier version of his manuscript by using sealing wax to attach corrections and changes written on small additional pieces of paper to full handwritten pages. He also expanded the text by inserting additional full pages. These changes show the evolution of Jefferson's ideas on a number of topics, and the supplemental information he gathered as he wrote. This website allows the reader to interact directly with Jefferson's complex manuscript by reading the original manuscript and by following all the changes that he made to the text before it was first published—including the opportunity to see passages written by Jefferson that have been hidden by attachments for more than two centuries.</dc:description>
           <dc:publisher>Massachusetts Historical Society</dc:publisher>
           <dc:contributor> </dc:contributor>
@@ -574,7 +574,7 @@
           <dc:title> Thoughts on Government: Applicable to the Present State of the American Colonies   </dc:title>
           <dc:creator>John Adams</dc:creator>
           <dc:subject>Political science</dc:subject>
-          <dc:subject>United States --Politics and government --1775-1783 </dc:subject>
+          <dc:subject>United States -- Politics and government -- 1775-1783 </dc:subject>
           <dc:subject> </dc:subject>
           <dc:subject> </dc:subject>
           <dc:description>Pamphlet written by John Adams containing his ideas about establishing a government including three branches--legislative, executive, and judicial.  This pamphlet was printed by John Dunlap, Philadelophia, 1776.  </dc:description>
